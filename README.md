@@ -1,6 +1,6 @@
 <p align='center'><img align="center" src="https://mcdn.wallpapersafari.com/medium/27/13/oVSI7a.jpg"/></p>
 <h1 align="center">Hi 👋, I'm Adiyat Shihab</h1>
-<h3 align="center">Frontend junior developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **Next js**
 
