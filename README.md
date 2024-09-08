@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adiyat Shihab</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **<img src="https://i.ibb.co.com/475GWRy/c-logo.png" alt="c-logo" border="0">**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **react, javascript**
 
