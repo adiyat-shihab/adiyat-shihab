@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **adiyatshihab@gmail.com**
 
